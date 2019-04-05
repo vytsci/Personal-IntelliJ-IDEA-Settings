@@ -6,7 +6,16 @@
           <option name="url" value="http://vcshead.kryptis.lt" />
           <option name="userName" value="vytenis.s" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://vcshead.kryptis.lt/dk-skeletons/symfony-systemsight-skeleton-composer.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://vcshead.kryptis.lt/dk-skeletons/symfony-systemsight-skeleton-gitmodules.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="$USER_HOME$/Projects/Web" />
   </component>
 </application>
